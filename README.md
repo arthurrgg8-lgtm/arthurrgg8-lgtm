@@ -4,26 +4,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Security%20Researcher%20&%20Full-Stack%20Dev&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>🛡️ Senior Security Researcher | Bug Hunter | Full Stack Developer</h3>
-      <p>A passionate Security Researcher specializing in <b>DoD assets</b> and <b>Corporate Ed-Tech infrastructure</b>. I combine deep-dive vulnerability research with high-performance full-stack engineering to build and break complex systems.</p>
-      <ul>
-        <li>🔭 <b>Currently focused on</b>: Advanced GraphQL exploitation and Next.js configuration leaks.</li>
-        <li>🌱 <b>Expertise</b>: Bug Hunting (Bugcrowd Standard), Reconnaissance, and Systemic Information Disclosure.</li>
-        <li>💻 <b>Tech Stack</b>: Next.js, React, Rust, Python, Go, and Bash.</li>
-        <li>🛠️ <b>Hardware</b>: Operating from a specialized <b>Raspberry Pi 4</b> setup with Ralink 3070 (Monitor Mode enabled).</li>
-        <li>👯 <b>Available for</b>: Collaborations on security tooling and high-impact VDP/BBP targets.</li>
-        <li>📫 <b>Reach me</b>: <a href="mailto:arthurrgg8@gmail.com">arthurrgg8@gmail.com</a></li>
-        <li>⚡ <b>Fun fact</b>: I know but I don't know how I know.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Hacker.gif?raw=true" width="300" />
-    </td>
-  </tr>
-</table>
+### 🛡️ Senior Security Researcher | Bug Hunter | Full Stack Developer
+
+A passionate Security Researcher specializing in **DoD assets** and **Corporate Ed-Tech infrastructure**. I combine deep-dive vulnerability research with high-performance full-stack engineering to build and break complex systems.
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Hacker.gif?raw=true" width="400" />
+</p>
+
+- 🔭 **Currently focused on**: Advanced GraphQL exploitation and Next.js configuration leaks.
+- 🌱 **Expertise**: Bug Hunting (Bugcrowd Standard), Reconnaissance, and Systemic Information Disclosure.
+- 💻 **Tech Stack**: Next.js, React, Rust, Python, Go, and Bash.
+- 🛠️ **Hardware**: Operating from a specialized **Raspberry Pi 4** setup with Ralink 3070 (Monitor Mode enabled).
+- 👯 **Available for**: Collaborations on security tooling and high-impact VDP/BBP targets.
+- 📫 **Reach me**: [arthurrgg8@gmail.com](mailto:arthurrgg8@gmail.com)
+- ⚡ **Fun fact**: I know but I don't know how I know.
 
 ---
 
@@ -83,4 +78,5 @@
 <p align="right">
   <i>"Stay curious, stay paranoid."</i>
 </p>
+
 
