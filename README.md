@@ -1,8 +1,10 @@
+<!-- Special repository for profile README -->
 # Hi 👋, I'm Anudit Khatri (Lazzy)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Security%20Researcher%20&%20Full-Stack%20Dev&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 ### 🛡️ Senior Security Researcher | Bug Hunter | Full Stack Developer
 
