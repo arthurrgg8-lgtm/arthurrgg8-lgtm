@@ -42,7 +42,7 @@
    "base": "Kathmandu, Bagmati, Nepal [LAT: 27.7172° N // LNG: 85.3240° E]",
    "primary_site": "https://anuditk.vercel.app",
    "hardware_rig": {
-     "platform": "Raspberry Pi 4 Model B (4GB RAM)",
+     "playing with": "Raspberry Pi 4 Model B (4GB RAM)",
      "wireless_adapter": "Ralink RT3070 [Monitor Mode & Packet Injection Active]",
      "node_infrastructure": "Self-Hosted Homelab NVR & Wireless Telemetry Node"
    }
