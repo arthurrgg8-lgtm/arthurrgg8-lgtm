@@ -30,8 +30,6 @@
 
 ---
 
-### 🖥️ macOS Terminal Shell // Live Session
-
 ```zsh
  🔴 🟡 🟢   zsh — badger@node-pi4:~ (tmux: sec_core // 80x28)
 
